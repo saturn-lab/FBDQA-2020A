@@ -1,14 +1,13 @@
-# FBDQA-2020Spring  
+# FBDQA-2020 Autumn  
 
-(For WeYoung Class of RainClassroom) For [Lotus Class](https://github.com/plouto-quants/FBDQA-2020S).
 
-金融大数据与量化分析： Financial Big Data and Quantitative Analytics, a.k.a FBDQA-2020S.
+金融大数据与量化分析： Financial Big Data and Quantitative Analytics, a.k.a FBDQA.
 
 ## 教师与助教
 
 Instructors: Hao Wang, [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/) , Yinfei Liu, Min Guo, Haoyu Wang
 
-TAs: Wei-Wei Liu, Ying-Tian Chi @chenyh19
+TAs: Wei-Wei Liu, Yun-Sheng Ni, Yao-Dong Shen
 
 ## 课程内容
 
