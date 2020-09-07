@@ -1,4 +1,3 @@
-2020-04-10
 
 Bring Your Laptop to Class. 
 
