@@ -19,7 +19,7 @@ TAs: Wei-Wei Liu, Yun-Sheng Ni, Yao-Dong Shen
 
 ## 教学安排
 
-[课程安排](Schedule/FBDQA-Schedule-2020S.md)
+[课程安排](Schedule/FBDQA-Schedule-2020A.md)
 
 ## 目录结构
 
