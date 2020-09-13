@@ -6,7 +6,7 @@ Bring Your Laptop to Class.
 
 | 课次/课程计划链接    |    日期    |    讲课 / 实践  |  分工  |备注       |
 | :---   |   :----:    |   :----:    |    :----:    |       ---: |
-|   [1](Part1/WW2/WW2-Plan.md)    | 9-18 周五 |  讲课    |     CZ/WH     |         |
+|   [1](Part1/WW1/WW1-Plan.md)    | 9-18 周五 |  讲课    |     CZ/WH     |         |
 |   [2](Part1/WW2/WW2-Plan.md)    | 9-25 周五 |  讲课    |     CZ/WH     |         |
 |   [3](Part1/WW3/WW3-Plan.md)    | 10-2 周五 国庆假期 |  讲课    |     CZ/WH     |         |
 |   [4](Part1/WW4/WW4-Plan.md)    | 10-9 周五 |  讲课    |     CZ/GM/LYF/WH     |         |
