@@ -20,8 +20,8 @@ Bring Your Laptop to Class.
 
 | 时间段    |    内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---:   |
-|    1     | 数字化工具   |  讲课   |    CZ     |    Git/Markdown    |
-|    2     | Python使用   |  讲课   |    CZ     |        |
+|    1     | [金融数据分析环境基础](WW1-FBD.md)   |  讲课   |    CZ/GM/WHY     |    Git/Markdown/Python使用    |
+|    2     | 金融数据分析环境基础   |  实践操作   |   NYS/SDY     |        |
 
 
 | 时间段    |    内容    | 讲课 / 实践     |  分工  |   备注       |
@@ -31,7 +31,7 @@ Bring Your Laptop to Class.
 
 | 时间段    |    内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
-|   1      |   课堂小作业的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，进入验收     |
+|   1      |   课堂小作业的验收     |  实验   |     LWW/NYS/SDY     |    腾会会议室开启等候室，进入验收     |
 |   2      |   学习小结 上交至[Study-Memo](../../../Memos/Study-Memo)    |  实践    |     CZ&TAs      |   最迟至9月25日下午1点      |
 |   3      |   小结目录 更新 [Memo-Summary](../../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至9月25日下午1点      |
 
