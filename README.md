@@ -1,5 +1,8 @@
 # FBDQA-2020 Autumn  
 
+## 教学安排
+
+[课程安排](Schedule/FBDQA-Schedule-2020A.md)
 
 金融大数据与量化分析： Financial Big Data and Quantitative Analytics, a.k.a FBDQA.
 
@@ -16,10 +19,6 @@ TAs: Wei-Wei Liu, Yun-Sheng Ni, Yao-Dong Shen
 2. 单元内容 [金融大数据](Schedule/金融大数据-教学计划-2020春.md) ：数据管理语言SQL、数据系统（金融大数据）等
 
 3. 单元内容 [量化交易](Schedule/量化交易-教学计划-2020春.md) ：聚宽平台SDK操作、量化交易体系、量化交易指标、量化交易评价，期权等
-
-## 教学安排
-
-[课程安排](Schedule/FBDQA-Schedule-2020A.md)
 
 ## 目录结构
 
