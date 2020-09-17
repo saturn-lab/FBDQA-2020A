@@ -8,7 +8,7 @@ Bring Your Laptop to Class.
 | :---   |   :----:    |   :----:    |    :----:    |       ---: |
 |   [WW1](Part1/WW1/WW1-Plan.md)    | 9-18 周五 |  讲课    |     CZ/WH     |         |
 |   [WW2](Part1/WW2/WW2-Plan.md)    | 9-25 周五 |  讲课    |     CZ/WH     |         |
-|   [WW3](Part1/WW3/WW3-Plan.md)    | 10-2 周五 国庆假期 |  讲课    |     CZ/WH     |         |
+|   [WW3](Part1/WW3/WW3-Plan.md)    | 9-27 周日 |  讲课    |     CZ/WH     |   原排于国庆假期10-2 周五课程       |
 |   [WW4](Part1/WW4/WW4-Plan.md)    | 10-9 周五 |  讲课    |     CZ/GM/LYF/WH     |         |
 |   [WW5](Part1/WW5/WW5-Plan.md)    | 10-16 周五 |  讲课    |     CZ/GM/LYF/WH      |         |
 |   [WW6](Part1/WW6/WW6-Plan.md)    | 10-23 周五 |  讲课    |     CZ/GM/LYF/WH     |         |
