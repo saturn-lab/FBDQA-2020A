@@ -1,5 +1,5 @@
 # 2018012627的课堂小结
-- [第1周小结]
+- [第1周小结]——雨课堂提交
 - [第2周小结](../Study-Memo/2627-Day2-autumnbao.md)
 - [第3周小结](../Study-Memo/2627-Day3-autumnbao.md)
 - [第4周小结](../Study-Memo/2627-Day4-autumnbao.md)
