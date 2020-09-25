@@ -74,3 +74,4 @@ int main(){
 - markdown数学公式写起来一言难尽，学习成本一点也不低  
 - 还是只用于纯文本编辑吧  
 - 开sublime text  Shift + F11 沉浸模式写起来还是很爽的。（把网文作者关起来码字正好）
+- 用sublime 直接打开Git仓库，修改后一次性commit，不需要打开命令行
