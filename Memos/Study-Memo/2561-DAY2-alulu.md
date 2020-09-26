@@ -1,10 +1,28 @@
 # W2 课程小结
 
+**我的爱好有：**
+1. 跑步
+2. 看美食up主的做饭视频
+3. 逛吃
+   1. 逛逛逛
+   2. 吃吃吃
+![微信截图_20200925142229.png](C:\Users\Lenovo\Desktop\微信截图_20200925142229.png)
+
 | 课程信息 | 地点 | 时间 | 学分 |
 | -------- | ---- | ---- | ---- |
 | 三年级女生羽毛球 | 紫荆乒羽馆 | 2-1  | 0    |
 | 公共财政学 | 六教6A214 | 2-2 | 3   |
 | 管理学的思与行 | 四教4103 | 2-6 | 3   |
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=r_P=\beta_P&space;\cdot&space;r_B&plus;\alpha_P&plus;\epsilon_P" target="_blank"><img src="https://latex.codecogs.com/svg.latex?r_P=\beta_P&space;\cdot&space;r_B&plus;\alpha_P&plus;\epsilon_P" title="r_P=\beta_P \cdot r_B+\alpha_P+\epsilon_P" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\beta_P" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\beta_P" title="\beta_P" /></a>: 投资组合P相对与业绩基准组合B的beta系数
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha_P" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\alpha_P" title="\alpha_P" /></a>: 反映了组合P相对于业绩基准组合B的超额收益能力
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\epsilon_P" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\epsilon_P" title="\epsilon_P" /></a>: 一个期望为0的随机项
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha_P" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\alpha_P" title="\alpha_P" /></a> 这部分收益与大盘的波动无关，这就是alpha的魅力
 
 Git markdown 代码汇总
 
