@@ -15,7 +15,7 @@
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   2       |  Matplotlib画图[notebook](matplotlib_python/plot.ipynb)   |  讲课    |     GM     |           |
+|   2       |  Matplotlib画图[notebook](matplotlib_python/plot.ipynb)   |  讲课    |     WHY/GM     |           |
 |   3       |    小练习   |   实践   |          |    想一想，做一做      |
 
 
