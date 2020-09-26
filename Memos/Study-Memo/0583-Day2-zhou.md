@@ -37,7 +37,36 @@ git branch test 创建test分支
 git checkout test 切换到test分支
 ~~~
 
+#### python使用
+##### 安装
+~~~bash
+sudo apt-get install python3
+~~~
+##### 虚拟环境配置
+~~~bash
+virtualenv test
+source test/bin/activate
+pip3 install package_name
+~~~
+##### python基本使用
+~~~python
+list=[1,2,3]
+list
+set=(1,2,3,4)
+set
+a={'1':'one'}
+a
+tdlist=[[i for i in range(9)] for _ in range(9)]
+tdlist
+lists=[i for i in range(5)]
+for list in lists:
+    print(list)
+for i in range(5):
+    print(f'Hello{i}')
+~~~
+
 #### 稳定绩效
+
  	长期视角、风险与收益的平衡、盈亏同源、系统性的方法和执行手段
 #### 交易系统的关键要素
  	胜率、赔率、成本、频率、头寸、本金
