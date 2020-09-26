@@ -21,13 +21,13 @@
 
 | 时间段 |          内容      | 讲课 / 实践 | 分工       |        备注        |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   4    |   Python-Pandas数据分析   |    讲课     |   NYS   |         |  
+|   4    |   Python-Pandas数据分析[notebook](python/plot.ipynb)    |    讲课     |   NYS   |         |  
 |   5    |   Pandas 画图 plot   |    实践     |      |         |  
 
 
 | 时间段 |          内容      | 讲课 / 实践 | 分工       |        备注        |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   7    |   Python—Seaborn库使用  |    讲课     |   SDY   |         |  
+|   7    |   Python—Seaborn库使用[notebook](python/plot.ipynb)   |    讲课     |   SDY   |         |  
 |   7    |   Python—Seaborn示例  |    讲课     |      |         |  
 
 
