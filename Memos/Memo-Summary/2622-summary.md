@@ -1,6 +1,6 @@
 # 课堂小结目录
 - 第一周小结（雨课堂）
-- [第二周小结](..\Study-Memo\2622-Day2-mirac1e.md)
+- [第二周小结](FBDQA-2020A/Memos/Study-Memo/2622-Day2-mirac1e.md)
 - [第三周小结(9.27)](..\Study-Memo\2622-Day3-mirac1e.md)
 - [第四周小结](..\Study-Memo\2622-Day4-mirac1e.md)
 - [第五周小结](..\Study-Memo\2622-Day5-mirac1e.md)
