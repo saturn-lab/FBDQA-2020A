@@ -9,29 +9,32 @@
 
 
 | 时间段 |       内容       | 讲课 / 实践 |   分工    |        备注        |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   1    |  Python-numpy   |    讲课     |     CZ      |          |
+| :---      |   :----:     |   :----:    |    :----:    |       ---: |
+|   1    |  Python语言回顾  |    讲课     |     CZ      |     10 min     |
 
+| 时间段 |       内容       | 讲课 / 实践 |   分工    |        备注        |
+| :---      |   :----:     |   :----:    |    :----:    |       ---: |
+|   2    |  Python Numpy   |    讲课/实践     |     CZ    |    5 min      |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   2       |  Matplotlib画图[notebook](matplotlib_python/plot.ipynb)   |  讲课    |     WHY/GM     |           |
-|   3       |    小练习   |   实践   |          |    想一想，做一做      |
+|   3       |  Matplotlib画图[notebook](matplotlib_python/plot.ipynb)   |  讲课    |     WHY/GM     |           |
+|   4       |    小练习   |   实践   |          |    想一想，做一做      |
 
 
 | 时间段 |          内容      | 讲课 / 实践 | 分工       |        备注        |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   4    |   Python-Pandas数据分析[notebook](python/plot.ipynb)    |    讲课     |   NYS   |         |  
-|   5    |   Pandas 画图 plot   |    实践     |      |         |  
+|   5    |   Python-Pandas数据分析[notebook](python/plot.ipynb)    |    讲课     |   NYS   |         |  
+|   6    |   Pandas 画图 plot   |    实践     |      |         |  
 
 
 | 时间段 |          内容      | 讲课 / 实践 | 分工       |        备注        |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   7    |   Python—Seaborn库使用[notebook](python/plot.ipynb)   |    讲课     |   SDY   |         |  
-|   7    |   Python—Seaborn示例  |    讲课     |      |         |  
+|   8    |   Python—Seaborn示例  |    讲课     |      |         |  
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   7      | [展望下节课](../WW3/WW3-FBD.md)，介绍本节课内容     |  讲课    |     CZ     |         |
+|   9      | [展望下节课](../WW3/WW3-FBD.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 
