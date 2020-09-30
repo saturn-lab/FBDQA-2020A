@@ -1,7 +1,13 @@
 # 金融大数据部分
-##
-##
-##
+## Python
+- set, list, dictionary
+- if,else,elif
+- for, while 循环
+- class类（猫、车的例子）
+## matplotlib画图
+## numpy, scipy
+## pandas
+## seaborn
 # 量化交易部分
 ## 多因子模型
 - 通过找到一些影响证券回报的变量，用尽可能少的因子去解释尽可能多的证券回报变化
