@@ -22,7 +22,7 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|    1     | [金融数据基础-1](WW4-FBD.md)   |  讲课   |    GM/WHY/CZ     |    30 min    |
+|    1     | [金融数据基础-1](../WW3/WW3-FBD.md)   |  讲课   |    GM/WHY/CZ     |    30 min    |
 
 
 
