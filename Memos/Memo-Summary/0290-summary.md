@@ -1,7 +1,7 @@
 # 2017010290的课程小结汇总
 - [第2周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/0290-Day2.md)
 - [第3周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/0290-Day3.md)
-- 第4周小结
+- [第4周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/0290-Day4-HYJ-106.md)
 - 第5周小结
 - 第6周小结
 - 第7周小结
