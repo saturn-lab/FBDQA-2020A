@@ -1,5 +1,5 @@
 # 2016011693的课程小结汇总  
-+ [第1周小结]()  
++ [第1周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day1.md)  
 + [第2周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day2.md)  
 + [第3周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day3.ipynb)  
 + [第4周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day4.md)  
