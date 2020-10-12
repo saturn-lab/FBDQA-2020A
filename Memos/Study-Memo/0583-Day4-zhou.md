@@ -69,7 +69,7 @@ df=get_price('000001.XSHG')
 df
 ~~~
 ~~~python
-q=query(valuation).filter(valuation.code=='000001.XSHE')
+q=query(valuation).filter(valuation.code=='000001.XSHE')	
 df=get_fundamentals(q),'2015-10-15'
 df
 ~~~
@@ -79,12 +79,46 @@ Rt=df.pct_change().dropna()
 Rt
 ~~~
 ##### 在线
-略
++ 初始化函数
+~~~python
+# 初始化函数，设定基准
+def initialize(context):
+	set_benchmark('000300.XSHG')
+	set_option('use_real_price',True)
+	set_slippage(FixedSlippage(0))
+	set_order_cost(...)
+	#other user functions
+~~~
++ 股票池选择
+~~~python
+def pl_stock_pool(context):
+	pl_raw_data=pl_load_fundamentals_data(context)
+	pl_raw_data_array=[]
+	pl_current_datas=get_current_data()
+	for pl_item in pl_raw_data:
+		pl_code=pl_item['code']
+		# codes that filter the stocks
+		pl_raw_data_array.append(pl_item)
+	pl_raw_data=pl_raw_data_array
+	pl_filtered_pe=[]
+	for pl_stock in pl_raw_data:
+		if pl_stock['pe_ratio']==None: continue
+		if math.isnan(pl_stock['pe_ratio]) or float(pl_stock['pe_ratio']) < 10 or float(pl_stock['pe_ratio'])>30:
+			continue
+		pl_filtered_pe.append(pl_stock['code'])
+		log.info(pl_stock['code'],pl_stock['pe_ratio'])
+	
+	g.pl_stock_pool = []
+    for pl_stock in pl_filtered_pe:
+        g.pl_stock_pool.append(pl_stock)
+    log.info('调整股票池,筛选出的股票池：',g.pl_stock_pool)
+    pass
+~~~
 
 ### 量化交易策略开发案例
 &emsp;交易逻辑vs策略实现
 &emsp;细节
-#### 程序框架
+##### 程序框架
 + 启动
 ~~~python 
 Initialize()
@@ -123,3 +157,9 @@ e.g.选股条件——PE：0～30；市值：10亿～100亿 容量——50  再�
 + 卖出：5日均线下穿30日均线
 + 金叉：短时均线上穿长时均线
 + 死叉：短时均线下穿长时均线
+
+
+
+
+
+
