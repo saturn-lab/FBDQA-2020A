@@ -5,12 +5,17 @@
 |    1    |  SQL基础 |   讲课    |     CZ     |   安装Dbeaver， 安装DB Browser for SQLite      |
 
 
+|时间段    |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :---    |  :----:  |   :----:    |    :----:    | ---: |
+|    2    |  安装Dbeaver， 安装DB Browser for SQLite  |   实践    |     WHY     |        |
+
+
 |时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---     |   :----:    |   :----:    |    :----:    | ---: |
-|   2      |  Python SQLite   |   讲课    |     SDY     |   Data System      |
-|   3      |  [SQLite练习]() | 实践 | ZY | 想一想，练一练 |
+|   3      |  Python SQLite   |   讲课    |     SDY     |   Data System      |
+|   4      |  [SQLite练习]() | 实践 |  SDY | 想一想，练一练 |
 
 
 | 时间段   |       内容     | 讲课 / 实践 | 分工  | 备注 |
 | :-----  | :-------------: | :---------: | :---: | ---: |
-|    7    | Python数据访问   |  讲课与实践   |     WHY     |    读取SQL数据库   |
+|    5    | Python数据访问   |  讲课与实践   |     WHY     |    读取SQL数据库   |
