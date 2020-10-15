@@ -2,7 +2,7 @@
 
 Bring Your Laptop to Class. 
 
-
+课前：[WW5-pre](WW5-Pre.md)
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
@@ -22,5 +22,8 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
 |    4     | [下次课展望](../WW6/WW6-Plan.md)     |  讲课   |  instructor  |   5 min   |
+
+
+课后：[WW5-post](WW5-Post.md)
 
 大家注意：勿上传``有版权``的课程参考资料。
