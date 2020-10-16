@@ -1,14 +1,13 @@
-郑扬 2018010228
 
-**markdown**
 
-# Heading level1
+超跌因子：一段时间内跌幅最大
 
-# Heading level2
-
-### Heading level 3
-
-#### Heading level 4
+关系模型：就是一个表，两个表建立了联系。
+关系数据模型
+SQL：对表的查询。对一个表的查询，以及joint， 表的集合运算，或者SQL算子。单表查询与多表查询
+什么是SQL？如何用SQL定义
+SQL是高级语言：申明语言
+交叉积
 
 
 
