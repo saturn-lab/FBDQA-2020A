@@ -3,7 +3,7 @@
 + [第2周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day2.md)  
 + [第3周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day3.ipynb)  
 + [第4周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day4.md)  
-+ [第5周小结]()  
++ [第5周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day5.md)  
 + [第6周小结]()  
 + [第7周小结]()  
 + [第8周小结]()  
