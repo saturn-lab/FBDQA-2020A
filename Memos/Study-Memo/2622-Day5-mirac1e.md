@@ -18,3 +18,8 @@
        - 现货与期货之间
 # 金融大数据部分
 ## SQL
+- Relational data model
+- Data independence
+- Set algebra
+- cross product
+- 应用
