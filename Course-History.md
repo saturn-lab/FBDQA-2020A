@@ -16,3 +16,9 @@
 3. Principle of quantative trading technology.
 
 4. Course Projects.
+
+## 历任助教
+
+池映天 倪运升
+
+
