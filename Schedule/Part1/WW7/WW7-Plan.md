@@ -1,5 +1,8 @@
+# WW7
 
 Bring Your Laptop to Class. 
+
+课前：[WW7-pre](WW7-Pre.md)
 
 ## Schedule
 
@@ -24,3 +27,10 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
 |    3     | [下次课展望](../WW8/WW8-Plan.md)     |  讲课   |  instructor  |   2-5 min   |
+
+
+## 课后
+
+课后：[WW7-post](WW7-Post.md)
+
+大家注意：勿上传``有版权``的课程参考资料。
