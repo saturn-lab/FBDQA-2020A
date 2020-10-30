@@ -10,7 +10,7 @@
 	- PL_jukuan_db.py 		                # 数据获取接口
 	- PL_jukuan_macd_config.py 	        	# macd信号检测配置文件
 	- PL_jukuan_macd_signal.py 				# 历史数据缓存以及信号检测
-- PL_signal_statistics.py              	# 信号统计
+	- PL_signal_statistics.py              	# 信号统计
   
 3. 如何在策略中获取金叉、死叉、背离。在回测中检测信号的参考代码：PL_strategy_demo.py。
     (1) 编写策略
