@@ -16,15 +16,17 @@ TAs: Wei-Wei Liu, Yun-Sheng Ni, Yao-Dong Shen
 
 1. 基础部分：数字化能力基础，Python编程语言、Python库：Numpy/Pandas/Scipy/... 
 
-2. 单元内容 [金融大数据](Schedule/金融大数据-教学计划-2020A.md) ：数据管理语言SQL、数据系统（金融大数据）等
+2. 单元内容 [金融大数据](learnFBD/金融大数据-教学内容-2020A.md) ：数据管理语言SQL、数据系统（金融大数据）等
 
-3. 单元内容 [量化交易](Schedule/量化交易-教学计划-2020A.md) ：聚宽平台SDK操作、量化交易体系、量化交易指标、量化交易评价，期权等
+3. 单元内容 [量化交易](learnQuant/量化交易-教学内容-2020A.md) ：聚宽平台SDK操作、量化交易体系、量化交易指标、量化交易评价，期权等
 
 ## 目录结构
 
 - Computing / 计算基础与python学习
 - Schedule / 课程每周安排
 - Study-Memo / 学习小结目录
+- learnFBD /  金融大数据
+- learnQuant / 量化交易
 
 ## Notice:
 
