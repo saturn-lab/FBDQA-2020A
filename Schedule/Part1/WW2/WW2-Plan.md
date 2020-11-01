@@ -16,8 +16,8 @@ Bring Your Laptop to Class.
 
 | 时间段   |    内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---:   |
-|    2     | [金融数据分析环境基础](../WW1/WW1-FBD.md)   |  讲课   |    CZ/GM/WHY     |    Git/Markdown/Python使用    |
-|    3     | 金融数据分析环境基础   |  实践操作   |   NYS/SDY     |        |
+|    2     | [金融数据环境基础](../../learnFBD/1-FBD.md)   |  讲课   |    CZ/GM/WHY     |    Git/Markdown/Python使用    |
+|    3     | 金融数据环境基础   |  实践操作   |   NYS/SDY     |        |
 
 
 
@@ -29,7 +29,7 @@ Bring Your Laptop to Class.
 
 | 时间段    |    内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---:   |
-|    4     | [打造稳定交易体系的逻辑基础](WW2-Quant.md)   |  讲课   |    WH     |        |
+|    4     | [打造稳定交易体系的逻辑基础](../../learnQuant/WW2-Quant.md)   |  讲课   |    WH     |        |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |   备注       |
