@@ -1,10 +1,12 @@
+# 金融大数据与量化分析 
+
+Financial Big Data and Quantitative Analytics, a.k.a FBDQA.
+
 # FBDQA-2020 Autumn  
 
 ## 教学安排
 
-[课程安排](Schedule/FBDQA-Schedule-2020A.md)
-
-金融大数据与量化分析： Financial Big Data and Quantitative Analytics, a.k.a FBDQA.
+[总体课程安排](Schedule/FBDQA-Schedule-2020A.md)
 
 ## 教师与助教
 
