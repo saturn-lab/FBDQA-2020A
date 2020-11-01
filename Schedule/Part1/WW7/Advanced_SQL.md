@@ -6,7 +6,6 @@ Bring Your Laptop to Class.
 |    1     | [回顾上节课](../WW6/WW6-Plan.md)     |  简述 | CZ |        |
 |    2     | Advanced SQL   |  讲课   |    GM |    20 min    |
 |    3     | PLPython   |  讲课   |    CYT     |    20 min    |
-|    4     | postgreSQL远程访问   |  演示   |    WHY     |    5-10 min    |
 
 
 
