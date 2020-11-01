@@ -27,6 +27,7 @@ TAs: Wei-Wei Liu, Yun-Sheng Ni, Yao-Dong Shen
 - Study-Memo / 学习小结目录
 - learnFBD /  金融大数据
 - learnQuant / 量化交易
+- Logistics  / 课程管理相关
 
 ## Notice:
 
