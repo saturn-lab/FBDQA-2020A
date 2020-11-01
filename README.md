@@ -23,6 +23,7 @@ TAs: Wei-Wei Liu, Yun-Sheng Ni, Yao-Dong Shen
 ## 目录结构
 
 - Computing / 计算基础与python学习
+- Course-Projects/ 课程实践任务
 - Schedule / 课程每周安排
 - Study-Memo / 学习小结目录
 - learnFBD /  金融大数据
