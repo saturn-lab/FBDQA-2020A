@@ -33,4 +33,8 @@ Bring Your Laptop to Class.
 
 课后：[WW7-post](WW7-Post.md)
 
+## 可选
+
+[Advanced_SQL](Advanced_SQL.md)
+
 大家注意：勿上传``有版权``的课程参考资料。
