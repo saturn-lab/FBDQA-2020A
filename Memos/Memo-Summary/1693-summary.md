@@ -1,4 +1,5 @@
 # 2016011693的课程小结汇总  
+### 王玥 工物60
 + [第1周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day1.md)  
 + [第2周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day2.md)  
 + [第3周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day3.ipynb)  
@@ -6,7 +7,7 @@
 + [第5周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day5.md)  
 + [第6周小结]()  
 + [第7周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day7.md)  
-+ [第8周小结]()  
++ [第8周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day8.md)  
 + [第9周小结]()  
 + [第10周小结]()  
 + [第11周小结]()  
