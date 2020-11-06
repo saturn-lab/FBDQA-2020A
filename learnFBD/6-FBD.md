@@ -10,7 +10,7 @@
 | :---    |   :----:    |   :----:    |    :----:    | ---: |
 |    1    |   Python本地数据访问-基本I/O     |    讲课  |      WHY     |         |
 |    1    |   Python本地数据访问-Pandas I/O     |    讲课  |      WHY     |         |
-|    1    |   [Python数据访问notebook]()     |    实验  |      WHY/NYS     |         |
+|    1    |   [Python数据访问notebook](Python-Input_Output.ipynb)     |    实验  |      WHY/NYS     |         |
 
 
 # 金融大数据-/模型基础
