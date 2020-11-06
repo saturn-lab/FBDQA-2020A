@@ -14,13 +14,13 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:   |   :----:    |    :----:    | ---: |
-|    1     | [回顾上节课](../WW6/WW6-Plan.md)   |  简述 | CZ |        |
+|    1     | [回顾上节课](../WW6/WW6-Plan.md)   |  简述 | WH |        |
 
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---: |
-|    2     | [构造更精细的信号系统](WW7-Quant.md) | 讲课   |   WH    |             |
+|    2     | [构造更精细的信号系统](../../../learnQuant/WW7-Quant.md) | 讲课   |   WH    |             |
  
  
 
@@ -32,5 +32,9 @@ Bring Your Laptop to Class.
 ## 课后
 
 课后：[WW7-post](WW7-Post.md)
+
+## 可选
+
+[Advanced_SQL](Advanced_SQL.md)
 
 大家注意：勿上传``有版权``的课程参考资料。

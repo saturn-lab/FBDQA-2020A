@@ -6,3 +6,4 @@
 * [第2周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2159-Day2-cannonballsvr.md)
 * [第4周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2159-Day4-cannonballsvr.md)
 * [第5周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2159-Day5-cannonballsvr.md)
+* [第7周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2159-Day7-cannonballsvr.md)

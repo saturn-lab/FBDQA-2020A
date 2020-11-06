@@ -14,13 +14,13 @@ Bring Your Laptop to Class.
 
 | 时间段   |    内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---:   |
-|    1     | [金融数据分析环境基础-2](../WW2/WW2-FBD.md)   |  讲课   |    CZ/GM/WHY     |    numpy/matplotlib/pandas/seaborn使用    |
+|    1     | [金融数据分析环境基础-2](../../../learnFBD/2-FBD.md)   |  讲课   |    CZ/GM/WHY     |    numpy/matplotlib/pandas/seaborn使用    |
 |    2     | 金融数据分析环境基础-2  |  实践操作   |   NYS/SDY     |        |
 
 
 | 时间段    |    内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---     |   :----:    |   :----:    |    :----:    |       ---:   |
-|    1     | [创建自己的交易策略](WW3-Quant.md)   |  讲课   |    WH     |        |
+|    1     | [创建自己的交易策略](../../../learnQuant/WW3-Quant.md)   |  讲课   |    WH     |        |
 
 
 
