@@ -6,7 +6,7 @@ Financial Big Data and Quantitative Analytics, a.k.a FBDQA.
 
 ## 教学计划
 
-[教学计划安排](Schedule/FBDQA-Schedule-2020A.md)
+[教学计划安排-2020A](Schedule/FBDQA-Schedule-2020A.md)
 
 ## 教师与助教
 
