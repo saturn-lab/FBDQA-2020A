@@ -8,7 +8,7 @@ Bring Your Laptop to Class.
 |    2     |  大数据GreenPlum |  讲课   |    Yao Yandong     |   45 min    |
 |    3     |  配对交易和案例演示     |  讲课  |      LWW        |  30 min |
 |    4     |  策略诊断与挑战性课题发布     |  讲课  |     WH       |   50 min    |
-|    5     | [展望下节课](../../Weeks/WW10/WW10-Plan.md)     | 简述 |  CZ  |  5 min  |
+|    5     | [展望下节课](../../Part2/WW10/WW10-Plan.md)     | 简述 |  CZ  |  5 min  |
 
 
 
