@@ -6,7 +6,7 @@ Bring Your Laptop to Class.
 | :---     |    :----:    |   :----:    |    :----:    |       ---: |
 |    1     | [回顾上节课](../WW8/WW8-Plan.md)     | 简述 |     CZ     |    5  min  |
 |    2     | [金融大数据](7-FBD.md)  |  讲课   |          |   45 min    |
-|    4     |  [量化策略](8-Quant.md)   |  讲课  |     WH       |   50 min    |
+|    4     |  [量化策略](WW9-Quant.md)   |  讲课  |     WH       |   50 min    |
 |    5     | [展望下节课](../../Part2/WW10/WW10-Plan.md)     | 简述 |  CZ  |  5 min  |
 
 
