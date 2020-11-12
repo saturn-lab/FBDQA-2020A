@@ -9,8 +9,8 @@
 
 |时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |   :----:    |   :----:    |    :----:    | ---: |
-|    1    |   Python计算库     |    讲课  |      WHY     |         |
-|    1    |   [Python计算库notebook]()     |    实验  |      WHY/GM     |         |
+|    1    |   Python计算库     |    讲课  |      WHY     |    15 min     |
+|    1    |   [Python计算库notebook]()  |    实验  |      WHY/GM     |         |
 
 
 
