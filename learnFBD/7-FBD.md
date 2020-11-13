@@ -10,7 +10,7 @@
 |时间段   |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---    |   :----:    |   :----:    |    :----:    | ---: |
 |    1    |   Python数学工具-积分与符号计算   |    讲课  |      GM    |     20 min    |
-|    1    |   [积分与符号计算notebook]()     |    实验  |      GM/SDY     |         |
+|    1    |   [积分与符号计算notebook](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Computing/learnPython3/12_Math_Tools_积分.ipynb)     |    实验  |      GM/SDY     |         |
 
 
 
