@@ -8,7 +8,7 @@
 + [第6周小结]()  
 + [第7周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day7.md)  
 + [第8周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day8.md)  
-+ [第9周小结]()  
++ [第9周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day9.md)  
 + [第10周小结]()  
 + [第11周小结]()  
 + [第12周小结]()  
