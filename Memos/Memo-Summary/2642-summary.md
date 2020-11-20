@@ -14,7 +14,7 @@
 
 [第9周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2642-Day9.md)
 
-[第10周小结]
+[第10周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2642-Day10.md)
 
 [第11周小结]
 
