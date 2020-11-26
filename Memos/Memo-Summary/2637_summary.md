@@ -8,3 +8,6 @@
 * 第六周小结
 * [第七周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2637-Day7-Yan-her.md)
 * [第八周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2637-Day8-Yan-her.md)
+* [第九周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2637-Day9-Yan-her.md)
+* [第十周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2637-Day10-Yan-her.md)
+
