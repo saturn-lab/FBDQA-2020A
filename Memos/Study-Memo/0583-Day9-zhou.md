@@ -9,7 +9,8 @@
 #### 符号数学
 + sympy
 ~~~python
-import SymPy as sy
+import sympy as sy
+x=sy.symbols('x')
 f=x**2+3+0.5*x**2+3/2
 sy.simplify(f)
 ~~~
