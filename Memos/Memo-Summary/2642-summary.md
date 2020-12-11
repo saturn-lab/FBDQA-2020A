@@ -20,7 +20,7 @@
 
 [第12周小结](https://github.com/saturn-lab/FBDQA-2020A/commit/cff76f7839e8777febe3ffdfb570690b8e2089be)
 
-[第13周小结]
+[第13周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2642-Day13.md)
 
 [第14周小结]
 
