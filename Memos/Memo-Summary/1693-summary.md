@@ -12,7 +12,7 @@
 + [第10周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day10.md)  
 + [第11周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day11.md)  
 + [第12周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day12.md)  
-+ [第13周小结]()  
++ [第13周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day13.md)   
 + [第14周小结]()  
 + [第15周小结]()  
 + [第16周小结]()  
