@@ -21,7 +21,7 @@ Bring Your Laptop to Class.
 |   [WW13](Part2/WW13/WW13-Plan.md)    | 12-11 周五 |  讲课    |    |         |
 |   [WW14](Part2/WW14/WW14-Plan.md)    | 12-18 周五 |  讲课    |        |         |
 |   [WW15](Part2/WW15/WW15-Plan.md)    | 12-25 周五 |  讲课    |   期末大作业-报告     |    End结束     |
-|   [WW16](Part2/WW16/WW16-Plan.md)    | 1-1 周五 元旦放假 |  讲课    |         |    不排课     |
+|   [WW16](Part2/WW16/WW16-Plan.md)    | 1-1 周五 元旦放假 | 无    |         |    不排课     |
 
 
 > 大家注意：勿上传``有版权``的课程参考资料。
