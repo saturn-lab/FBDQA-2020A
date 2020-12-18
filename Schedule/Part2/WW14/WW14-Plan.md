@@ -12,7 +12,7 @@ Bring Your Laptop and smart phone to Class.
 
 |  时间段  |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
-|    2    |  [衍生品估值库DX_Library](learnFBD/)   |    讲课     |   LWW   |   30 min   |
+|    2    |  [衍生品估值库DX_Library及其在期权估值应用](learnFBD/)   |    讲课     |   LWW   |   30 min   |
 
 
 |  时间段  |  内容    | 讲课 / 实践     |  分工  |备注       |
