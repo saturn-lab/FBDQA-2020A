@@ -14,4 +14,3 @@
 - [第十三周小结](../Study-Memo/2622-Day13-mirac1e.md)
 - [第十四周小结](../Study-Memo/2622-Day14-mirac1e.md)
 - [第十五周小结](../Study-Memo/2622-Day15-mirac1e.md)
-- [第十六周小结](../Study-Memo/2622-Day16-mirac1e.md)
