@@ -14,5 +14,4 @@
 * [第十二周学习小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2066-Day12.md)<br>
 * [第十三周学习小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2066-Day13.md)<br>
 * [第十四周学习小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2066-Day14.md)<br>
-* [第十五周学习小结]()<br>
-* [第十六周学习小结]()<br>
+* [第十五周学习小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/2066-Day15.md)<br>
