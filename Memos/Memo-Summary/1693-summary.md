@@ -14,4 +14,4 @@
 + [第12周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day12.md)  
 + [第13周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day13.md)   
 + [第14周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day14.md)  
-+ [第15周小结](策略大作业路演汇报，无授课内容)   
++ [第15周小结](https://github.com/saturn-lab/FBDQA-2020A/blob/master/Memos/Study-Memo/1693-Day15.md)   
