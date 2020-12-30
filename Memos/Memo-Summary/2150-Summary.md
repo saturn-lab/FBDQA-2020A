@@ -14,4 +14,3 @@
 - [第十三周小结](../Study-Memo/2150-Day13-zjs.md)
 - [第十四周小结](../Study-Memo/2150-Day14-zjs.md)
 - [第十五周小结](../Study-Memo/2150-Day15-zjs.md)
-- [第十六周小结](../Study-Memo/2150-Day16-zjs.md)
