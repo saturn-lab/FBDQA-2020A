@@ -1,6 +1,6 @@
-#第六讲总结
+# 第六讲总结
 2018011179 无85 叶天
-##量化策略路演展示
+## 量化策略路演展示
 选取几个印象深刻的小组展示：
 
 1、Short-term reversal: Momentum strategy in A-share 反转策略
